@@ -1,0 +1,7 @@
+diff --git a/a/a.txt b/a/a.txt
+index 1234567..89abcdef 100644
+--- a/a/a.txt
++++ b/a/a.txt
+@@ -1 +1 @@
+-./stealer-test-a/a/a.txt
++abc
